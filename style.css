@@ -1,0 +1,10 @@
+
+body {
+    background-color: darkgray;
+}
+
+.class1 {
+    display: flex;
+    justify-content: center;
+    color: saddlebrown;
+}
